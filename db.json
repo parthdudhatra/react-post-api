@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "Parth dudhatra ",
+      "email": "parthdudhatra123@gmail.com",
+      "mobile": "09106706256",
+      "id": 2
+    },
+    {
+      "name": "dhruv samani",
+      "email": "dhruv123@gmail.com",
+      "mobile": "910370256",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
